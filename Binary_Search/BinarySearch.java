@@ -22,6 +22,7 @@ public class BinarySearch {
 		
 	}
 	
+	
 	public String[] sort(String[] arr) {
 		InsertionSorting obj = new InsertionSorting();
 		String[] sortedArray = obj.insertionSort(arr);
